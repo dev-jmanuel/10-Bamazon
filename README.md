@@ -62,3 +62,11 @@ The Bamazon is like an Amazon-like storefront CLI app that connects with MySQL. 
 
 ![alt text](https://github.com/joshespr/10-Bamazon/blob/master/gifs/supervisor_adddept.gif)
 
+
+## Authors
+
+Joshua Manuel
+
+## License
+
+MIT License
