@@ -1,0 +1,24 @@
+{
+  "name": "bamazon_cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^6.2.2",
+    "mysql": "^2.16.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshespr/10-Bamazon.git"
+  },
+  "author": "Joshua Manuel",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/joshespr/10-Bamazon/issues"
+  },
+  "homepage": "https://github.com/joshespr/10-Bamazon#readme"
+}
