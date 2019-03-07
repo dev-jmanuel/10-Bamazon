@@ -4,7 +4,7 @@
 
 The Bamazon is like an Amazon-like storefront CLI app that connects with MySQL. The app will interact with the MySQL databse either as a customer, manager, or supervisor (depending on which module you choose to run).
 
-## GIFS
+## bamazonCustomer.js module
 
 ### Customer Main
 
@@ -20,6 +20,7 @@ The Bamazon is like an Amazon-like storefront CLI app that connects with MySQL. 
 
 ![alt text](https://github.com/joshespr/10-Bamazon/blob/master/gifs/customer_order.gif)
 
+## bamazonManager.js module
 
 ### Manager Main
 
@@ -45,6 +46,7 @@ The Bamazon is like an Amazon-like storefront CLI app that connects with MySQL. 
 
 ![alt text](https://github.com/joshespr/10-Bamazon/blob/master/gifs/manager_addprod.gif)
 
+## bamazonSupervisor.js module
 
 ### Supervisor Main
 
